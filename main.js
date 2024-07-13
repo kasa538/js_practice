@@ -1,1 +1,1 @@
-alert('はじめてのJavaScript');
+console.log('はじめてのJavaScript');
