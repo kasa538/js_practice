@@ -1,8 +1,8 @@
-body {
+/* body {
     margin: 0;
     height: 100vh;
     background-color:#ecc1a5 ;
-    /* overflow: hidden; */
+    //overflow: hidden;
 }
 
 span {
@@ -31,4 +31,4 @@ span {
         filter: hue-rotate(720deg);
 
     }
-}
+} */
